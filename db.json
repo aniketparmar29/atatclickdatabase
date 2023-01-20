@@ -11959,12 +11959,12 @@
  "users": [
    {"id":1,
     "name":"Aniket",
-    "profile":"www.google.com",
+    "profile":"https://avatars.githubusercontent.com/u/80318654?s=40&v=4",
     "email":"example@gmail.com",
     "password":"12345678"},
    {"id":2,
    "name":"parmar",
-    "profile":"www.google.com",
+    "profile":"whttps://avatars.githubusercontent.com/u/80318654?s=40&v=4",
     "email":"example2@gmail.com",
     "password":"12345678"}
  ],
