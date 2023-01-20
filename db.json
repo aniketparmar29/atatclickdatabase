@@ -11958,9 +11958,13 @@
   ],
  "users": [
    {"id":1,
+    "name":"Aniket",
+    "profile":"www.google.com",
     "email":"example@gmail.com",
     "password":"12345678"},
    {"id":2,
+   "name":"parmar",
+    "profile":"www.google.com",
     "email":"example2@gmail.com",
     "password":"12345678"}
  ],
